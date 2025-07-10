@@ -7,3 +7,6 @@ Completed a practical virtual experience focused on building effective business 
 
 Data Analytics Virtual Experience – Deloitte (July 2025)
 Completed a job simulation focused on data analysis and forensic technology, gaining hands-on exposure to real-world analytical tasks used in corporate investigations and decision-making processes.
+
+Data Analyst Certification – One Roadmap (July 2025)
+Successfully cleared the One Roadmap Skill Certification Test, demonstrating strong foundational knowledge and analytical skills required for a Data Analyst role.
